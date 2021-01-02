@@ -8,6 +8,7 @@ This project tests whether I can use a device to read/write to NFC chips.
 
 ![GitHub issues](https://img.shields.io/github/issues/crs1138/nfc-test)
 ![GitHub](https://img.shields.io/github/license/crs1138/nfc-test)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/crs1138/nfc-test/dev/browser-sync)
 
 ## Requirements
 
@@ -63,3 +64,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Resources
 
 * [Interact with NFC devices on Chrome for Android](https://web.dev/nfc/)
+* [What Web Can Do Today? NFC](https://whatwebcando.today/nfc.html)
+* [Web NFC API](https://developer.mozilla.org/en-US/docs/Web/API/Web_NFC_API)
