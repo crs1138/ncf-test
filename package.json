@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "browser-sync start --server --files '**/*.css, **/*.js, **/*.html'"
+    "start": "browser-sync start --server --files '**/*.css, **/*.js, **/*.html' --https",
+    "start:xip": "browser-sync -w --https"
   },
   "repository": "git+ssh://git@github.com/crs1138/ncf-test.git",
   "keywords": [
